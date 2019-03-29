@@ -2,4 +2,5 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Welcome to Mumbai Women Coders"
 theme = "ananke"
+publishDir = "diptigandhi24.github.io"
 
